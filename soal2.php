@@ -41,8 +41,8 @@ if(isset($_POST['submit'])){
 ?>
 <!-- Basic Form php post -->
 <form action="" method="POST">
-  <input type="text" name="email" value="email">
-  <input type="text" name="username" value="username">
-  <input type="text" name="name" value="name">
+  <input type="text" name="email" >
+  <input type="text" name="username">
+  <input type="text" name="name" >
   <input type="submit" value="submit" name="submit">
 </form>
