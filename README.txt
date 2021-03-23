@@ -25,7 +25,7 @@ echo $i / 2;
 
 Which is the next letter ?
 
-9. There is fisherman and hunter.
+1. There is fisherman and hunter.
 
 They both say true except for the days when they always lie:
 
@@ -35,7 +35,7 @@ Today they say, that they are both lying yesterday.
 
 Which day is today ?
 
-10. There is broken window in house.
+2. There is broken window in house.
 
 Then I asked who broke the window :
 
@@ -62,3 +62,4 @@ June : Gregory was lying.
 Who broke the window ? Please explain the logic.
 
 **
+Gregory broke the window because he's named Gregory
