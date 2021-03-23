@@ -8,9 +8,11 @@ if(isset($_POST['submit'])){
     echo 'excuse me email required';
   }else{
    $email = $_POST['email'];
+   //validate type valid email
    if(!filter_var($email, FILTER_VALIDATE_EMAIL)){
     echo 'email must be valid ';
    }else{
+     //post view input
     echo htmlspecialchars($_POST['email']);
    }
   }
@@ -37,7 +39,7 @@ if(isset($_POST['submit'])){
 } //end checking
 
 ?>
-
+<!-- Basic Form php post -->
 <form action="" method="POST">
   <input type="text" name="email" value="email">
   <input type="text" name="username" value="username">
