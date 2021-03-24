@@ -62,4 +62,3 @@ June : Gregory was lying.
 Who broke the window ? Please explain the logic.
 
 **
-Gregory broke the window because he's named Gregory
